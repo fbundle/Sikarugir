@@ -35,6 +35,7 @@ body:
     attributes:
       label: Wrapper Version
       options:
+        - "Template-1.0.11"
         - "Template-1.0.10"
         - "Template-1.0.9"
         - "Template-1.0.8"
