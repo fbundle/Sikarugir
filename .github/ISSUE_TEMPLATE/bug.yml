@@ -63,6 +63,7 @@ body:
         - "WS12WineCX24.0.7_3 (not supported)"
         - "WS12WineCX24.0.7_2 (not supported)"
         - "WS12WineCX24.0.7 (not supported)"
+        - "WS12WineCX23.7.1_4 (not supported)"
         - "WS12WineCX23.7.1_3 (not supported)"
         - "WS12WineCX23.7.1_2 (not supported)"
         - "WS12WineCX23.7.1_1 (not supported)"
